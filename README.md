@@ -7,6 +7,8 @@
 - [x] 3- Writing deployment files front-end and back-end
 - [x] 4- Dockerize both your front-end and back-end application to make them ready for deployment.
 
+![Todo Component](./project-scenes/main-scene.png "PageHeader Component")
+
 ## Tech Stack
 
 <ol>
@@ -105,7 +107,15 @@ it runs **:8080**
 
 For Unit tests:
 
-`npm run test:unit`
+`$ npm run test:unit`
+![Todo Component](./project-scenes/main-scene.png "PageHeader Component")
+![Unit Test](./project-scenes/vue-cli-service test-unit.png "Test Unit")
+    
+For Lint:
+
+`$ npm run lint`
+    
+![Lint](./project-scenes/vue-cli-service lint.png "Lint")
 
 ### With Docker compose
 
