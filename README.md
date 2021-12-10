@@ -108,14 +108,14 @@ it runs **:8080**
 For Unit tests:
 
 `$ npm run test:unit`
-![Todo Component](./project-scenes/main-scene.png "PageHeader Component")
-![Unit Test](./project-scenes/vue-cli-service test-unit.png "Test Unit")
+
+![Unit Test](./project-scenes/vue-cli-service-test-unit.png "Test Unit")
     
 For Lint:
 
 `$ npm run lint`
     
-![Lint](./project-scenes/vue-cli-service lint.png "Lint")
+![Lint](./project-scenes/vue-cli-service-lint.png "Lint")
 
 ### With Docker compose
 
